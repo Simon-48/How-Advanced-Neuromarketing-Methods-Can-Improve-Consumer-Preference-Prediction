@@ -2,7 +2,7 @@
 
 ## Study Objective
 
-The study aimed to compare traditional self-reported measures (valence, arousal, dominance) with advanced neuromarketing techniques—specifically, FFT-based EEG analysis—in predicting consumer liking of experiential (intangible) products, like music videos. Kindly check the 'Results.docx' file. The main questions addressed were:
+The study aimed to compare traditional self-reported measures (valence, arousal, dominance) with advanced neuromarketing techniques—specifically, FFT-based EEG analysis—in predicting consumer liking of experiential (intangible) products, like music videos. Kindly check the 'Results.docx' file for details. The main questions addressed were:
 
 ### RQ1: Can EEG (via FFT analysis) outperform self-reported measures in predicting liking?
 
@@ -77,7 +77,7 @@ EEG+V+A+D: F1 = 1.00 → Perfect prediction
 
 V+A (self-reports): F1 = 0.77
 
-EEG+V+A: F1 = 1.00 → +23%
+EEG+V+A: F1 = 1.00 → +23% → Perfect prediction
 
 EEG+V+A+D: F1 = 1.00 → Perfect prediction
 
