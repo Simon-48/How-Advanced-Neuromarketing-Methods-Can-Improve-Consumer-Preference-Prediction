@@ -121,3 +121,5 @@ Results were derived from two datasets; generalizability to live subjects and ot
 Future studies can apply the method to other product types and emotional outcomes (e.g., fear, calmness).
 
 The study emphasizes the need to integrate neuromarketing analytics with AI for both research and commercial applications.
+
+**The codes are private.**
